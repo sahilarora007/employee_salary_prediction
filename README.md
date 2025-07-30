@@ -59,5 +59,3 @@
 
 ---
 
-## 📂 File Structure
-
