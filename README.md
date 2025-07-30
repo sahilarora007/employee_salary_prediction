@@ -1,10 +1,8 @@
-# # 💼 Employee Income Classification - ML Web App
-
-A complete machine learning pipeline to predict whether a person earns **more than 50K** annually using demographic data. This project includes data preprocessing, model comparison, best model selection, and deployment using **Streamlit** and **pyngrok**.
+# 💼 Employee Income Classification 
 
 ---
 
-## 📌 Project Features
+##  Project Features
 
 - Cleaned and preprocessed the **Adult Income Dataset**
 - Handled missing values and outliers
